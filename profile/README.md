@@ -1,5 +1,5 @@
 ## OWLs (Open Web and Links)
-### Beta version v1.0.0  
+### Beta version v0.1.0  
 - A Event driven, Advance Autonomous Bot, Powered by GPT-4o.
 - Social Media and Content Creation
 - Built with Python (large Ecosystem of third party like OpenCV, PIl and many more), Golang (for concurrency and ease of use) and bash (for automated Scripting)
