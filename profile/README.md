@@ -6,6 +6,7 @@
   - Python ( large Ecosystem of third party modules like OpenCV, PIL and many more )
   - Golang ( fast, Scalable, and concurrent)
   - bash (for automated scripting)
+  - LLaMA ( Large Language Model Meta AI, LLaMA can generate coherent and contextually relevant text based on a given data ) 
 
 > ## Note  
 > - We're working on this project, we'll be in production soon !  
