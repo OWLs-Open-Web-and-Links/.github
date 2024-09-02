@@ -2,7 +2,7 @@
 ### Beta version v0.1.0  
 - A Event driven, Advance Autonomous Bot.
 - Social Media and Content Creation
-- Built with
+- Building with
   - Python ( large Ecosystem of third party modules like OpenCV, PIL and many more )
   - Golang ( fast, Scalable, and concurrent)
   - bash (for automated scripting)
